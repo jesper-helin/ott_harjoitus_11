@@ -3,4 +3,5 @@
 
 void printHello() {
   std::cout << "Hello world!" << std::endl;
+  std::cout << "God morgon!" << std::endl;
 }
